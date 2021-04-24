@@ -38,7 +38,7 @@
 - <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/wave.gif" width="30px">&nbsp;Member Of Odisha Oracle Users Group (Technical Club of GIET University)
 - <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/wave.gif" width="30px">&nbsp;Web Developer Intern at Lyriclious.
 - <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/wave.gif" width="30px">&nbsp;Organising Team Member Of Hack With Let's Upgrade (Hackathon Platform).
-- 
+
 
 <hr>
 
