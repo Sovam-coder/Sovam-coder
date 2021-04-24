@@ -19,8 +19,9 @@
 
 - <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/wave.gif" width="30px">&nbsp;Currently learning **_MEAN stack_** 😉
 - <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/gandalf_parrot.gif" width="30px">&nbsp; Working on **_Competitive Programming skills..._**
-- <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/headbang.gif" width="30px">&nbsp;Looking forward to work on <img alt="Python3" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" /> projects &nbsp;!
-- <img src="https://media.giphy.com/media/mG7xN3NU7WeUUGiKjM/giphy.gif" width="30px">&nbsp; Collaborating in various projects as an Open - Source Contributor <img alt="GIF" src="https://github.com/Harshita248/Harshita248/blob/main/Assets/powerup.gif" width="20vw" /> ...
+- <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/gandalf_parrot.gif" width="30px">&nbsp; Ux and UI Designer.
+- <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/headbang.gif" width="30px">&nbsp;Looking forward to work on Web Development projects &nbsp;!
+- <img src="https://media.giphy.com/media/mG7xN3NU7WeUUGiKjM/giphy.gif" width="30px">&nbsp; Collaborating in various projects as an Open - Source Contributor 
 
 
 
